@@ -3,4 +3,4 @@
 - working with { html, render } from lit-html
 - simple displaying logic
 
-FROM Sep - Dec 2021)
+(FROM Sep - Dec 2021)
